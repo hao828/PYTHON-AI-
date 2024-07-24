@@ -1,4 +1,6 @@
 20240316 課堂筆記
+錄影檔01:https://youtu.be/iteUu3p-TIA
+錄影檔02https://youtu.be/cz-lFMhdoj0
 
 講師提供程式碼
 https://github.com/xvpowerg/ai_python20240316/tree/main/ai_python_20240316
