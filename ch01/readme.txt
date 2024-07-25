@@ -1,6 +1,5 @@
-20240316 課堂筆記
-錄影檔01:https://youtu.be/iteUu3p-TIA
-錄影檔02:https://youtu.be/cz-lFMhdoj0
+Python與AI人工智慧開發入門-01:https://youtu.be/iteUu3p-TIA
+Python與AI人工智慧開發入門-02:https://youtu.be/cz-lFMhdoj0
 
 講師提供程式碼
 https://github.com/xvpowerg/ai_python20240316/tree/main/ai_python_20240316
