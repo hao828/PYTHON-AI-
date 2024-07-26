@@ -1,5 +1,5 @@
-Python與AI人工智慧入門-07:https://youtu.be/0ABrdbSSq7w
-Python與AI人工智慧入門-08:https://youtu.be/NtRMkHkQ5eg
+Python與AI人工智慧開發入門-07:https://youtu.be/0ABrdbSSq7w
+Python與AI人工智慧開發入門-08:https://youtu.be/NtRMkHkQ5eg
 
 ### split
 
