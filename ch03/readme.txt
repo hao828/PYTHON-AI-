@@ -1,3 +1,5 @@
+Python與AI人工智慧開發入門-05:https://youtu.be/wD7nOWyjT9s
+Python與AI人工智慧開發入門-06:https://youtu.be/DYwgWtWuuMA
 ### for迴圈
 name = "Howard"
 for c in name:
