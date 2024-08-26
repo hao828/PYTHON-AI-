@@ -1,4 +1,4 @@
-Python與AI人工智慧開發入門-09：https://youtu.be/0ABrdbSSq7w https://youtu.be/U3z3-TG5SL8
+Python與AI人工智慧開發入門-09：https://youtu.be/U3z3-TG5SL8
 Python與AI人工智慧開發入門-10：https://youtu.be/VEwZXXFQ5P4
 
 ### 作業 文字接龍
