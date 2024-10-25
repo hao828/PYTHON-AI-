@@ -1,5 +1,5 @@
 Python與AI人工智慧開發入門-17：https://youtu.be/njQb8yURsyA
-Python與AI人工智慧開發入門-18：
+Python與AI人工智慧開發入門-18：https://youtu.be/vp6JJgXPwtE
 
 import numpy as np
 x = np.empty((2,4))
